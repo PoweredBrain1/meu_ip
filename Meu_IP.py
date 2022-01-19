@@ -38,10 +38,4 @@ ip1()
 time()
 
 
-
-fim = "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMeu IP Versão 0.1 de Nuno Alves.                       Prima enter para terminar"
-
-
-#print(input(fim))
-
 mainloop()
